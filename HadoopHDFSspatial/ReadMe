@@ -1,0 +1,7 @@
+Spark API for geo spatial operations, Arizona State University.
+▪ Developed a Spark API for geo spatial operations such as geometry union, geometry convex hull, geometry farthest pair, geometry closest pair, spatial range query.
+▪ Used technologies like Hadoop, HDFS, spark, Java 
+
+
+Team Mates 
+Arun Kumar, Karthik , Girish , Bhawani 
